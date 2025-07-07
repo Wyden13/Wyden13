@@ -3,10 +3,10 @@
 - ⚡ Fun fact: Sleep builder and guitar beginner
 ## Tech Stacks
 - Languages: C#, Python, Javascript
-- Tools: Docker, Github, Git, VSCode, Visual Studio
+- Tools: Docker, Github, Git, VSCode, Visual Studio, Jupyter Notebook
 - Database: PostgreSQL, MySQL
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,docker,python,github,react,visualstudio,vscode,postgres,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,docker,python,github,react,visualstudio,vscode,postgres,dotnet,jupyternotebook)](https://skillicons.dev)
 
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wyden13&theme=tokyonight)](https://github.com/Wyden13/github-readme-stats)
