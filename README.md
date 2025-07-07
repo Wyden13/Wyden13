@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Wyden13&color=brightgreen)
 ## Hi there 👋
 - 🔭 I’m currently working on something cool and interesting 
 - ⚡ Fun fact: Sleep builder and guitar beginner
