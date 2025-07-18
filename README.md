@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on something cool and interesting 
-- ⚡ Fun fact: Sleep builder and guitar beginner
+- ⚡ Fun fact: Sleep builder and guitar player
 ## Tech Stacks
 - Languages: C#, Python, Javascript
 - Tools: Docker, Github, Git, VSCode, Visual Studio, Jupyter Notebook
