@@ -51,8 +51,6 @@ I build practical software across web development, backend systems, automation, 
   <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,go,cs,java,react,docker,postgres,mysql,git,github,vscode,visualstudio,jupyter" alt="Python, TypeScript, JavaScript, HTML, CSS, Go, C#, Java, React, Docker, PostgreSQL, MySQL, Git, GitHub, VS Code, Visual Studio, and Jupyter" />
 </p>
 
-## GitHub activity
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Wyden13&show_icons=true&theme=tokyonight&hide_border=true" alt="Wyden's GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyden13&layout=compact&theme=tokyonight&hide_border=true" alt="Wyden's most-used languages" />
